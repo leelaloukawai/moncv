@@ -7,16 +7,39 @@
 .titre_bloc {
 	color: #333333;
 	}
-.titre_bloc {
-	margin-left: 400px;
-	}
+	.titre_bloc {
+		margin-left: 400px;
+		}
 .bloc {
 	color: #666666;
 	}
-.bloc {
-	margin-left: 400px;
-	}
+	.bloc {
+		margin-left: 400px;
+		}
+		.bloc {
+			width: 500px;
+			}
 .bloc2 {
 	margin-left: 500px;
 	}
-
+	.bloc2 {
+		width: 400px;
+		}
+		.bloc2 {
+			text-align:justify;
+			} 
+.bloc3 {
+	margin-left: 400px;
+	}
+	.bloc3 {
+		width: 500px;
+		}
+		.bloc3 {
+			text-align:justify;
+			} 
+.bloc4 {
+	margin-left: 400px;	
+	}
+	.bloc4 {
+		width: 500px;
+		}
